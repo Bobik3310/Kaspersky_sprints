@@ -1,0 +1,1 @@
+print(*['qwertyuiopasdfghjklzxcvbnm_{}1234567890'[('qwertyuiopasdfghjklzxcvbnm_{}1234567890'.index(i) + 'qwertyuiopasdfghjklzxcvbnm_{}1234567890'.index('thekey'[count % len('thekey')]) + 2) % len('qwertyuiopasdfghjklzxcvbnm_{}1234567890')] for count, i in enumerate(list('yourflagis{fhke37_kdrjknbmpr_04374j}'), start=0)], sep='')
