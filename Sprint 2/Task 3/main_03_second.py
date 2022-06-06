@@ -3,7 +3,7 @@ import re
 with open('Code.txt', 'r') as f:
     func = f.read()
 if func == '':
-    func = input('Можно было закинуть вашу функцию в Code.txt, но вы пошли иначе. Напишите вашу функцию:')
+    func = input('Можно было закинуть вашу функцию в Code.txt')
 vars = []
 lists = []
 vars.append(re.findall(r'[\w][\w\d]+(?=\s*[\,\)])', func[:func.index(':')]))  # аргументы на вход
