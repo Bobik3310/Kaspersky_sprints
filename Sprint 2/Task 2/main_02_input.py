@@ -1,5 +1,6 @@
 with open(f'{input("Путь к файлу:")}', 'rb') as f:
-    symbols = f.read(2).decode('utf-8')
+    text = f.read(2)
+print(text)
 if symbols == 'MZ':
     print(f'{symbols} - executable, OS Windows')
 else:
