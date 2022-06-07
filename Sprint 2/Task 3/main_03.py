@@ -1,5 +1,4 @@
 import re
-
 with open('Code.txt', 'r') as f:
     func = f.read()
 if func == '':
