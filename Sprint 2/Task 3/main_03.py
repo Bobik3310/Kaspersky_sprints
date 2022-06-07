@@ -7,7 +7,7 @@ vars = []
 lists = []
 vars.append(re.findall(r'[\w][\w\d]+(?=\s*[\,\)])', func[:func.index(':')]))  # аргументы на вход
 vars.append(re.findall(r'[\w][\w\d]+(?=\s*\=)', func))  # создаваемые переменные
-lists.append(re.findall(r'[\w][\w\d]+(?=\s*\=\[)', func))  # создаваемые массивы
+lists.append(re.findall(r'[\w][\w\d]+(?=\s*\=\[)', func))  # создаваемые списки
 count_var = 1
 count_list = 1
 for i in vars:

@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="336cc9cf-d694-4872-ae3e-6f6a2ae8d306" name="Changes" comment="Discription">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sprint 2/Task 2/main_02_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint 2/Task 2/main_02_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sprint 2/Task 3/main_03_second.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint 2/Task 3/main_03_second.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint 2/Task 3/main_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint 2/Task 3/main_03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_03_second" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kaspersky_sprints" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprint 2/Task 3/main_03_second.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Профессор\PycharmProjects\Kaspersky_sprints\Sprint 2\Task 3\main_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654546344891</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Discription">
+      <created>1654592724391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654592724391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
