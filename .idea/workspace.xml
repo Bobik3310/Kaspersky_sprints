@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="336cc9cf-d694-4872-ae3e-6f6a2ae8d306" name="Changes" comment="Discription">
-      <change beforePath="$PROJECT_DIR$/Sprint 2/Task 1/Ответ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint 2/Task 1/Ответ.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sprint 2/Task 2/main_02_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint 2/Task 2/main_02_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sprint 2/Task 3/Code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint 2/Task 3/Code.txt" afterDir="false" />
-    </list>
+    <list default="true" id="336cc9cf-d694-4872-ae3e-6f6a2ae8d306" name="Changes" comment="Discription" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654603400594</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Discription">
+      <created>1654603804889</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654603804889</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Discription">
+      <created>1654604007454</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654604007454</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
