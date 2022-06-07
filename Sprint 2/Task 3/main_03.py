@@ -3,6 +3,7 @@ with open('Code.txt', 'r') as f:
     func = f.read()
 if func == '':
     print('Закиньте вашу функцию в Code.txt')
+    exit()
 vars = []
 lists = []
 vars.append(re.findall(r'[\w][\w\d]+(?=\s*[\,\)])', func[:func.index(':')]))  # аргументы на вход
