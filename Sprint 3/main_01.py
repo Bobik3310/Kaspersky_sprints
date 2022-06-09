@@ -7,8 +7,8 @@ def replace(words_replace, words_values):
     return words_replace
 
 
-words = 'small0'
-for i in range(hours):
+words = 'small1'
+for i in range(1, hours):
     values = {f'big{i}': ' '.join([f'big{i + 1}'] + [f'small{i + 1}'] * malware), f'small{i}': f'big{i + 1}'}
     words = replace(words, values)
 print(words.count(' ') + 1)
